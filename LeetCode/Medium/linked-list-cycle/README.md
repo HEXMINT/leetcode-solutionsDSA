@@ -2,9 +2,9 @@
 
 ## Solution
 
-Language: python3
-Runtime: N/A
-Memory: N/A
+Language: Python3
+Runtime: 56
+Memory: 22636000
 
 ## Problem
 
