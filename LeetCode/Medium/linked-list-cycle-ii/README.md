@@ -2,7 +2,7 @@
 
 ## Solution
 
-Language: python3
+Language: Python3
 Runtime: N/A
 Memory: N/A
 
