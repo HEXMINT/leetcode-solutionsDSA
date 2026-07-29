@@ -3,8 +3,8 @@
 ## Solution
 
 Language: Python3
-Runtime: 56
-Memory: 22636000
+Runtime: 59
+Memory: 22452000
 
 ## Problem
 
