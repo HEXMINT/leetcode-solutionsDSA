@@ -4,7 +4,7 @@
 
 Language: Python3
 Runtime: N/A
-Memory: 19168000
+Memory: 19308000
 
 ## Problem
 
